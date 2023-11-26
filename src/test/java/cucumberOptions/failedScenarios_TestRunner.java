@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
 		glue="stepDefinations",
 		publish = true,
 		monochrome=true,
-		//format = {"pretty"},
+		//format = {"pretty"},	
 		plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"				
 		}
 		)
