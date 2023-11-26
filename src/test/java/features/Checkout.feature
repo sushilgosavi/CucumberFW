@@ -9,7 +9,7 @@ Feature: Search and Place the order for Products
     And Added 3 items of selected product to the cart
     Then User proceeds to the Checkout and Validate the <Name> items in the checkout page
     And verify user has ability to enter promo code and place the order
-   # this is a checkout feature file on main branch
+   # this is a checkout feature file 
 Examples: 
 |	Name	|
 | Tomato		|
